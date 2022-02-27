@@ -1,0 +1,7 @@
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\SimpelProjcet01\SimpelProjcet01\bin\Debug\SimpelProjcet01.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\SimpelProjcet01\SimpelProjcet01\bin\Debug\SimpelProjcet01.pdb
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\SimpelProjcet01\SimpelProjcet01\obj\Debug\SimpelProjcet01.csprojResolveAssemblyReference.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\SimpelProjcet01\SimpelProjcet01\obj\Debug\SimpelProjcet01.MainForm.resources
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\SimpelProjcet01\SimpelProjcet01\obj\Debug\SimpelProjcet01.csproj.GenerateResource.Cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\SimpelProjcet01\SimpelProjcet01\obj\Debug\SimpelProjcet01.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\SimpelProjcet01\SimpelProjcet01\obj\Debug\SimpelProjcet01.pdb
