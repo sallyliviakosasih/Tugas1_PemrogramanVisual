@@ -1,0 +1,5 @@
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\BelajarCSHARP\BelajarCSHARP\bin\Debug\BelajarCSHARP.pdb
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.csprojResolveAssemblyReference.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\BelajarCSHARP\BelajarCSHARP\obj\Debug\BelajarCSHARP.pdb
