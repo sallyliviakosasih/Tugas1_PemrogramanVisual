@@ -1,0 +1,5 @@
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\tugas02\tugas02\bin\Debug\tugas02.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\tugas02\tugas02\bin\Debug\tugas02.pdb
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\tugas02\tugas02\obj\Debug\tugas02.csprojResolveAssemblyReference.cache
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\tugas02\tugas02\obj\Debug\tugas02.exe
+D:\Folder penting\Materi Kuliah\Semester 4\Pemrograman Visual\Tugas\tugas1\tugas02\tugas02\obj\Debug\tugas02.pdb
